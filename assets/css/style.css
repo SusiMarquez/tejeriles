@@ -1,0 +1,73 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header{ 
+    background-image: url(../img/header.jpg);
+    height:3em;
+    color: black;
+    font-size: 3.5rem;
+    background-size:cover;
+    background-position: center;
+    margin-bottom: 0.5em;
+}
+
+h1{
+    line-height: 1.5em;
+    padding-left: 20%;
+    font-weight: 900;
+}
+
+header p{
+    padding-left: 30%;
+    font-size: 1.2rem;
+}
+
+.products{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    color: black;
+}
+
+.products img{ 
+    width: 40%;
+    padding: 2em 8em 0.2em 8em;
+}
+
+.products h3{
+    font-size: 1.1rem;
+    font-weight: 550;
+    text-align: center
+}
+.products p{
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+footer{ 
+    background-color: rgb(224, 220, 216);
+    color:black;
+    height:6em;
+    background-size: cover;
+    background-position: center; 
+    padding: 1em;
+    margin-top: 3em;
+    font-size: 0.9rem;
+    font-weight: 545;
+}
+
+footer img{ 
+    width: 2.2em;
+    padding: 0.8em 1em 0.8em 2em;
+}
+
+.contacto{
+    padding: 0 7em 0 13em;
+}
+
+.ubicacion{
+    padding: 0 4em 0 12em;
+    text-align: center;
+}
